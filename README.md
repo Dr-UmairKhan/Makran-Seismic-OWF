@@ -25,7 +25,7 @@ The code reproduces:
 1. Clone or download this repository.
 2. Ensure all input data files are inside `input_data/`.
 3. Launch Jupyter Notebook:  
-   `jupyter notebook "Seismic-OWFs_Makran Northern Arabian Sea.ipynb"`
+   `jupyter notebook "Seismic-OWFs_Makran_Northern_Arabian_Sea.ipynb"`
 4. Run all cells (Kernel → Restart & Run All).
 5. Outputs will be written to `output_figures/` and `output_tables/`.
 
